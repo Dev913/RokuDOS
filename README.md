@@ -10,4 +10,5 @@ This is a python script that will send requests to a Roku Smart television and s
 <b>Dev913</b> (me) - developer of this simple dos.
 
 <b>jcarbaugh</b> - developer of python-roku.
+
 https://github.com/jcarbaugh/python-roku
