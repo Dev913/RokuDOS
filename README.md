@@ -16,6 +16,3 @@ This is a python script that will send requests to a Roku Smart television and s
 <b>jcarbaugh</b> - developer of python-roku.
 
 https://github.com/jcarbaugh/python-roku
-
-# WARNING
-Once this is executed, this can cause a lasting effect. That is until you unplug and plug the Roku device back in to your power source. This was only tested on a Roku 65" so it may only affect those. However, do not quote me on that.
