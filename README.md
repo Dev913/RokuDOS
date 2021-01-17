@@ -1,9 +1,6 @@
 # RokuDOS
 This is a python script that will send requests to a Roku Smart television and spam the home button.
 
-# WARNING
-Once this is executed, this can cause a lasting effect. That is until you unplug and plug the Roku device back in to your power source. This was only tested on a Roku 65" so it may only affect those. However, do not quote me on that.
-
 ## Instructions
 * First before executing add sudo before "python RokuDOS.py".
 * After first execution proceed to press ctrl + z after everything installed and you see an error about the roku script.
@@ -19,3 +16,6 @@ Once this is executed, this can cause a lasting effect. That is until you unplug
 <b>jcarbaugh</b> - developer of python-roku.
 
 https://github.com/jcarbaugh/python-roku
+
+# WARNING
+Once this is executed, this can cause a lasting effect. That is until you unplug and plug the Roku device back in to your power source. This was only tested on a Roku 65" so it may only affect those. However, do not quote me on that.
