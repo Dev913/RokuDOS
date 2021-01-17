@@ -1,7 +1,7 @@
 # RokuDOS
 This is a python script that will send requests to a Roku Smart television and spam the home button.
 ## Instructions
-* First before executing add sudo before "python and RokuDOS.py".
+* First before executing add sudo before "python RokuDOS.py".
 * After first execution proceed to press ctrl + z after everything installed and you see an error about the roku script.
 * Re-execute the script using "python3 RokuDOS.py".
 * In order to gain an IP you need to have access to the network that the Roku is connected to.
