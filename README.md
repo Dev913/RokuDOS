@@ -2,7 +2,7 @@
 This is a python script that will send requests to a Roku Smart television and spam the home button.
 
 ## Instructions
-* First before executing "python RokuDOS.py" please execute "pip install -r requirememnts.txt".
+* First before executing "python RokuDOS.py" please execute "sudo apt-get install python3-pip" then once that is installed execute "pip3 install -r requirememnts.txt".
 * In order to gain an IP you need to have access to the network that the Roku is connected to.
 * You can use many different applications. I reccommend nmap it is fast.
 * Head to https://vitux.com/find-devices-connected-to-your-network-with-nmap/.
