@@ -13,7 +13,7 @@ This is a python script that will send requests to a Roku Smart television and s
 * Open the python script in a text editor.
 * Remove the bottom line "time.sleep(1)".
 * Execute the script and profit. Now it is faster and not controllable.
-* If you want it back to a little controllable (to make your victim/victims think it is the remote).
+* If you want it back to a little controllable (to make your victim/victims think the problem is the remote).
 
 # Credits
 <b>Dev913</b> (me) - developer of this simple dos.
