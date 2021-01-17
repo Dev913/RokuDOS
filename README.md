@@ -10,6 +10,12 @@ This is a python script that will send requests to a Roku Smart television and s
 * Head to https://vitux.com/find-devices-connected-to-your-network-with-nmap/.
 * Read and enter the command gather the IP of the Roku TV or TV's and enter them into the RokuDOS script when asked and profit.
 
+### Extras
+* Open the python script in a text editor.
+* Remove the bottom line "time.sleep(1)".
+* Execute the script and profit. Now it is faster and not controllable.
+* If you want it back to a little controllable (to make your victim/victims think it is the remote).
+
 # Credits
 <b>Dev913</b> (me) - developer of this simple dos.
 
