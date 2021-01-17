@@ -8,7 +8,8 @@ This is a python script that will send requests to a Roku Smart television and s
 * In order to gain an IP you need to have access to the network that the Roku is connected to.
 * You can use many different applications. I reccommend nmap it is fast.
 * Head to https://vitux.com/find-devices-connected-to-your-network-with-nmap/.
-* Read and enter the command gather the IP of the Roku TV or TV's and enter them into the RokuDOS script when asked and profit.
+* Read and enter the command gather the IP the Roku TV or TV's and enter them into the RokuDOS script when asked and profit.
+* If you are having issues finding it as they may be to many IPs on that network. Use fing it can pick out those devices and tell you usually which brand they are.
 
 ### Extras
 * Open the python script in a text editor.
